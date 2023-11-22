@@ -40,6 +40,10 @@ info2 = {
     lastName: 'Dule',
     age: 26
 };
+let info3 = {
+    firstName: 'kajal',
+    lastName: 'dule'
+};
 // assigning roles or name constant variables
 var Roles;
 (function (Roles) {
