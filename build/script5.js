@@ -33,7 +33,7 @@ function additionAny() {
     console.log('it will display or return any data type value');
     return "hello!";
 }
-let q1 = additionAny();
+q1 = additionAny();
 console.log(q1);
 // null -- we can define any variable with null value
 let apiResponsestatus = null;
@@ -49,7 +49,7 @@ function declaration_function(x, y) {
     console.log('function declaration');
     return x + y;
 }
-let q2 = declaration_function(12, 5);
+q2 = declaration_function(12, 5);
 console.log(q2);
 // 2> function expression
 let Expression_function = function (x, y) {
